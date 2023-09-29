@@ -16,6 +16,7 @@ The efficient forecasting and utilization of solar energy in Bangladesh is encum
 
 ### Significance of the Study
 The insights derived from this study are instrumental in policy formulation, grid optimization, and the broader exploration of renewable energy resources in Bangladesh.
+
 ## 2. Literature Review
 
 ### Previous Studies
@@ -28,7 +29,6 @@ The study evaluates a spectrum of models including Linear Regression, SVM, LSTM,
 The dynamic nature of solar irradiance data and the lack of real-time data analytics are the primary challenges. However, the advent of AI and machine learning unveils new horizons in solar energy forecasting.
 
 ## 3. Methodology
-
 ### Study Area
 The study is conducted in Bangladesh, with a focus on areas earmarked as having optimal solar energy potential. A grid system, marked by 15-degree intervals of latitude and longitude, serves as the basis for location analysis.
 
