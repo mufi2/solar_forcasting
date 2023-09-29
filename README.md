@@ -1,5 +1,5 @@
 # Comprehensive Documentation on Solar DNI Forecasting in Bangladesh
-![images](https://github.com/mufi2/solar_forcasting/assets/120253718/9de79171-e483-4a1d-a537-7411713c6b66)
+![solar-energy-5622969_1280](https://github.com/mufi2/solar_forcasting/assets/120253718/0534c495-7189-4de8-9df0-aeb31762c378)
 
 ## 1. Introduction
 
